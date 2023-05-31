@@ -1,7 +1,7 @@
 <h2> Oioi, eu sou a Bell! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="230">
 <em><br>Engenheira back-end em <a href="https://ca.contaazul.com">Conta Azul</a>
-<em><br>Desevolvedora PERN e Entusiasta em Ciência de Dados <a href="https://www.linkedin.com/in/isabellemaia/">LinkedIn</a></br>
+<em><br>Desevolvedora PERN <a href="https://www.linkedin.com/in/isabellemaia/">LinkedIn</a></br>
 <div style="display:flex; justify-content: space-between;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="20px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="20px">
