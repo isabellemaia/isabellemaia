@@ -1,5 +1,4 @@
 <h2> Oioi, eu sou a Bell! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<br>
 <img align='right' src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="230">
 <em><br>Engenheira back-end em <a href="https://ca.contaazul.com">Conta Azul</a>
 <em><br>Desevolvedora PERN e Entusiasta em Ciência de Dados <a href="https://www.linkedin.com/in/isabellemaia/">LinkedIn</a></br>
@@ -15,7 +14,7 @@
 
 <br>
 <br>
-<img src="https://i.pinimg.com/originals/9c/81/4e/9c814e1a6f168935573ad58da4b9c392.png" width="30">
+<img src="https://i.pinimg.com/originals/9c/81/4e/9c814e1a6f168935573ad58da4b9c392.png" width="40">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
 
 ```
