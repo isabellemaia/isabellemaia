@@ -3,13 +3,14 @@
 <em><br>Engenheira back-end em <a href="https://ca.contaazul.com">Conta Azul</a>
 <em><br>Dev backend <a href="https://www.linkedin.com/in/isabellemaia/">LinkedIn</a></br>
 <div style="display:flex; justify-content: space-between;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="20px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20px">
-<img src="https://logospng.org/wp-content/uploads/java.png" width="20px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="20px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="20px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" width="20px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30px">
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="30px">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="30px">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="30px">
+<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="30px">
     
 </div>
 
